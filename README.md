@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am a self taught developer. <br>
-I am a final year engineering student at Institute of Engineering & Technology, DAVV, Indore. <br>
+:man_technologist: I am a self taught developer. <br>
+:man_student: I am a final year engineering student at Institute of Engineering & Technology, DAVV, Indore. <br>
 🌱 I’m currently learning Typescript<br>💬 Ask me about react, nextjs, flask
 
 
