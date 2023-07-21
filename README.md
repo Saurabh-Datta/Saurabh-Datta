@@ -1,7 +1,7 @@
 # 💫 About Me:
 :man_technologist: I am a self taught developer. <br>
-:man_student: I am a final year engineering student at Institute of Engineering & Technology, DAVV, Indore. <br>
-🌱 I’m currently learning Angular & Spring Boot<br>💬 Ask me about react, nextjs, flask, react native
+:man_student: I am a software development engineer at TelioEV. <br>
+🌱 I’m currently working with ReactJS, React Native and AngularJS. <br>💬 Ask me about react, nextjs, flask, react native, typescript
 
 
 ## 🌐 Socials:
